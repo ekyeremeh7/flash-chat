@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803820660910",
+    "firebase_url": "https://flash-chat-a6331.firebaseio.com",
+    "project_id": "flash-chat-a6331",
+    "storage_bucket": "flash-chat-a6331.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803820660910:android:2976f6228fb14f19f8653f",
+        "android_client_info": {
+          "package_name": "com.cheremeh.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803820660910-lhtcdt5ecn4icde602eqearl9csjqgrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtFYJ9rzcKyjPeFa677P-QS_frWQU1kdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803820660910-lhtcdt5ecn4icde602eqearl9csjqgrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
